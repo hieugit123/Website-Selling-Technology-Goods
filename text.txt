@@ -1,0 +1,1 @@
+//CODE có bug là khi qua máy khác lại không lấy đc id user qua session.
